@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-1gokw4.cuansalam.sbs/sitemap.xml
